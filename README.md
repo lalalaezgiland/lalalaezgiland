@@ -22,6 +22,7 @@ But I decided to change my field. So I’m trying to be a **“Game Developer”
 * 📝 You can also find me writing at [Medium](https://medium.com/@lalalaezgiland)
 * 🤝 And making connections on [LinkedIn](https://www.linkedin.com/in/ezgibalkanoglu/)
 * 🎯 You can look up my [Portfolio]()
+* 🎶 And of course my [Music](https://open.spotify.com/user/217d46qkna5qoa2vbri2a4dja?si=459719d7208541ba)
 
 
 
