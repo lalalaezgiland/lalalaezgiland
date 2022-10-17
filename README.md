@@ -10,7 +10,7 @@ But I decided to change my field. So I’m trying to be a **“Game Developer”
 # Technologies 🚀
 
 
----
+
 
 * **Game Developer:** Unity, C#
 * **.Net Core** **:** C#, OOP
