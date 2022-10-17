@@ -1,7 +1,7 @@
 # Hello there, I’m Ezgi! 🤗
 
 
----
+
 
 I'm Ezgi from Turkey, currently living in Bursa. I'm a graduate with a master's degree in **Nutrition and Dietetics** at Yeditepe University. 
 
