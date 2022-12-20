@@ -5,7 +5,7 @@
 
 I'm Ezgi from Turkey, currently living in Bursa. I'm a graduate with a master's degree in **Nutrition and Dietetics** at Yeditepe University. 
 
-But I decided to change my field. So I’m trying to be a **“Game Developer”** which is my dream job. Currently I am studying **Game Desing** in **California Institute of Arts**🎮
+But I decided to change my field. So I’m trying to be a **“Game Developer”** which is my dream job. Currently I am studying **Game Desing** in **California Institute of Arts** and I  won a scholarship in **Google Game and Application Academy** 🎮
 
 # Technologies 🚀
 
