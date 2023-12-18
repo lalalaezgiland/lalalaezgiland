@@ -23,7 +23,7 @@ But I decided to change my field. So I’m trying to be a **“Game Developer/De
 * 🤝 And making connections on [LinkedIn](https://www.linkedin.com/in/ezgibalkanoglu/)
 * 🎯 You can look up my [Portfolio]()
 * 🎶 And of course my [Music](https://open.spotify.com/user/217d46qkna5qoa2vbri2a4dja?si=459719d7208541ba)
-
+* 🎮 and lastly my [Twitch](https://www.twitch.tv/lalalaezgiland)
 
 
 
