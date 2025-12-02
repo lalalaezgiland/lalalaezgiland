@@ -3,7 +3,7 @@
 
 
 
-I'm Ezgi from Turkey, currently living in Bursa. I'm a graduate with a master's degree in **Nutrition and Dietetics** at Yeditepe University. 
+I'm Ezgi from Turkey, currently living in Bursa. I'm a graduate with a master's degree in **Sports Nutrition** at Yeditepe University. 
 
 But I decided to change my field. So I’m trying to be a **“Game Developer/Designer”** which is my dream job. Currently I am studying **Game Desing** in **California Institute of Arts** and I  won a scholarship in **Google Game and Application Academy**. I am also a Twitch and Kick streamer, you can say that I am a full time gamer, part time developer 🎮
 
