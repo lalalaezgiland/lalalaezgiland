@@ -24,7 +24,8 @@ But I decided to change my field. So I’m trying to be a **“Game Developer/De
 * 🎯 You can look up my [Portfolio]()
 * 🎶 And of course my [Music](https://open.spotify.com/user/217d46qkna5qoa2vbri2a4dja?si=459719d7208541ba)
 * 🎮 and lastly my [Twitch](https://www.twitch.tv/lalalaezgiland) & [Kick](https://kick.com/ezgiland)
-
+  
+# My Badges 🎖️
 [![An image of @lalalaezgiland's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lalalaezgiland)](https://holopin.io/@lalalaezgiland)
 
 
